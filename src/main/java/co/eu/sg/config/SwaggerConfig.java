@@ -17,7 +17,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 @EnableSwagger2
 public class SwaggerConfig {
 
-	private static final Contact DEFAULT_CONTACT = new Contact("Bipin Bhesaniya", "http://www.in28minutes.com",
+	private static final Contact DEFAULT_CONTACT = new Contact("Bipin Bhesaniya", "https://github.com/Bipin203/EmployeeRegistration",
 			"bipin.bhesaniya@gmail.com");
 
 	private static final ApiInfo DEFAULT_API_INFO = new ApiInfo("Employee Registration" ,"Employee Registartion", "1.0",
